@@ -25,7 +25,7 @@ This can be further stratefied into Vine and non-Vine reviews shown below:
 
 * Total non-Vine (unpaid): 332,395
 * Total 5-star non-Vine: 168,800
-* Percentage of 5-star non-Vine reviews: ~33%
+* Percentage of 5-star non-Vine reviews: ~50.78%
 <img width="611" alt="Screen Shot 2021-09-18 at 5 23 04 PM" src="https://user-images.githubusercontent.com/45336910/133908869-a1dc13e0-da39-4c05-b963-113402486687.png">
 
 ## Summary and Analysis
