@@ -1,1 +1,26 @@
-# Amazon_Vine_Analysis
+# Amazon Vine Analysis
+
+## Project Description
+The goal of this analysis is to analyze Amazon reviews written by members of the paid Amazon Vine program. Amazon Vine is a serive that allows manufacturers and publishers to receive reviews for their projects. More specifically third-parties like Sellby pay a fee to Amazon to provide products to members of the Amazon Vine program in exchange for a review. 
+
+**Goal**: To determine if there is any bias toward favorable reviews from Vine members in the Amazon books dataset. 
+
+**Method**: PySpark was used to perform the ETL process, connect to an AWS instance, and load the transformed data into pgAdmin for further querying. 
+
+## Resources
+Data source: https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Books_v1_01.tsv.gz
+
+Software: Google Colab Notebook, AWS, pgAdmin 4, PostgreSQL 11.13
+
+## Results
+* Total number of reviews (non-vine and vine)
+* Total number of 5 star reviews (non-vine and vine)
+* Vine reviews (paid)
+* Non-vine reviews (unpaid)
+
+## Summary and Analysis
+* ~ 50% of total reviews (unpaid and paid) were 5 star reviews. 
+* ~ 33% of vine (paid) reviews were 5 stars
+* ~ 50% of non-vine reviews (unpaid) were 5 stars
+
+This supports that there is no positivity bias for reviews in the Vine program. Looking at the distribution of review scores (mean, median, mode) could provide further insight into the potential of bias. Perhaps, those who are paid are more likely to rate books in a binary manner really well (5 stars) or really poorly (1 star) because they feel pressured to have a strong opinion on the book.
