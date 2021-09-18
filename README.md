@@ -1,7 +1,7 @@
 # Amazon Vine Analysis
 
 ## Project Description
-The goal of this analysis is to analyze Amazon reviews written by members of the paid Amazon Vine program. Amazon Vine is a serive that allows manufacturers and publishers to receive reviews for their projects. More specifically third-parties like Sellby pay a fee to Amazon to provide products to members of the Amazon Vine program in exchange for a review. 
+The goal of this analysis is to analyze Amazon reviews written by members of the paid Amazon Vine program. Amazon Vine is a service that allows manufacturers and publishers to receive reviews for their projects. More specifically third-parties like Sellby pay a fee to Amazon to provide products to members of the Amazon Vine program in exchange for a review. 
 
 **Goal**: To determine if there is any bias toward favorable reviews from Vine members in the Amazon books dataset. 
 
