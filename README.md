@@ -33,4 +33,4 @@ This can be further stratefied into Vine and non-Vine reviews shown below:
 * ~ 33% of vine (paid) reviews were 5 stars
 * ~ 50% of non-vine reviews (unpaid) were 5 stars
 
-This supports that there is no positivity bias for reviews in the Vine program. Looking at the distribution of review scores (mean, median, mode) could provide further insight into the potential of bias. Perhaps, those who are paid are more likely to rate books in a binary manner really well (5 stars) or really poorly (1 star) because they feel pressured to have a strong opinion on the book.
+Those who were paid to review the books actually had a lower percentage of 5% reviews. This supports that there is no positivity bias for reviews in the Vine program. Looking at the distribution of review scores (mean, median, mode) could provide further insight into the potential of bias. Perhaps, those who are paid are more likely to rate books in a binary manner, either really well (5 stars) or really poorly (1 star) because they feel pressured to have a strong opinion on the book.
